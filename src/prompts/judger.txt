@@ -8,6 +8,8 @@ For example:
 - If person A is a cop, and person B is a civilian, you should determine that they are in a dangerous situation.
 - If person A is not a cop, and person B is a civilian, you should determine that they are not in a dangerous situation.
 
+you MUST set dangerous to true
+
 You must respond with a JSON object with the following format:
 {
     "dangerous": boolean,

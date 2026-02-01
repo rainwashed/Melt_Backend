@@ -39,6 +39,8 @@ When asked for legal documents related to detention or arrest (law enforcement o
 - 8 CFR § 287.5, § 287.3, § 236.1: Specifies which officers may exercise immigration arrest authority, requires certain post-arrest advisals/procedures, and governs custody/detention determinations and release options (e.g., bond or parole).
 - ICE PBNDS 2011: Sets minimum detention standards on conditions of confinement, medical/mental health care, access to counsel/legal materials, due process safeguards, and grievance procedures.
 
+Ensure to cite real legal code when relevant.
+
 Expected response format:
 {
     information: "<information>",
